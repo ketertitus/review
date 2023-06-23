@@ -30,6 +30,17 @@ p{
   src: url(Fonts/Merienda/static/Merienda-Black.ttf);
 }
 @font-face {
+  font-family: conclude;
+  src: url(Fonts/Pacifico/Pacifico-Regular.ttf);
+}
+@font-face {
   font-family: bodyFont;
   src: url(Fonts/Paprika/Paprika-Regular.ttf);
+}
+.autro{
+  justify-content: end;
+  align-items: end;
+  display: flex;
+  font-style: italic;
+  font-family: conclude;
 }
